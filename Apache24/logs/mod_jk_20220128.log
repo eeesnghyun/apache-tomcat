@@ -1,0 +1,22 @@
+[Fri Jan 28 15: 20: 14 2022][96680:81632] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 15: 20: 16 2022][96396:92440] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 15: 21: 51 2022]workers1 localhost 0.012965
+[Fri Jan 28 15: 21: 53 2022]workers1 localhost 0.008976
+[Fri Jan 28 15: 21: 53 2022]workers1 localhost 0.004987
+[Fri Jan 28 15: 27: 32 2022]workers1 localhost 0.017397
+[Fri Jan 28 15: 27: 32 2022]workers1 localhost 0.004995
+[Fri Jan 28 15: 27: 32 2022]workers1 localhost 0.003992
+[Fri Jan 28 15: 27: 33 2022]workers1 localhost 0.003006
+[Fri Jan 28 15: 27: 33 2022]workers1 localhost 0.004029
+[Fri Jan 28 15: 27: 33 2022]workers1 localhost 0.007979
+[Fri Jan 28 15: 35: 37 2022]workers1 localhost 0.014960
+[Fri Jan 28 16: 08: 50 2022][63528:99112] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 16: 08: 52 2022][99168:99132] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 14: 34 2022][99668:97420] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 14: 36 2022][100684:100680] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 17: 30 2022][100504:101488] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 17: 32 2022][100240:91548] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 19: 04 2022][101600:94788] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 19: 06 2022][104024:99316] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 20: 15 2022][104264:104128] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized
+[Fri Jan 28 17: 20: 17 2022][104412:94152] [info] init_jk::mod_jk.c (3591): mod_jk/1.2.48 initialized

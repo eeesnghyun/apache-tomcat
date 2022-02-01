@@ -1,0 +1,162 @@
+
+2022-01-28 15:33:07 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 15:33:13.451  INFO 100092 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 100092 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 15:33:13.456  INFO 100092 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 15:33:14.767  INFO 100092 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1215 ms
+2022-01-28 15:33:15.602  INFO 100092 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 15:33:15.725  INFO 100092 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 3.235 seconds (JVM running for 8.053)
+
+2022-01-28 15:35:13 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 15:35:18.509  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 100556 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 15:35:18.517  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 15:35:19.964  INFO 100556 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1339 ms
+2022-01-28 15:35:20.822  INFO 100556 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 15:35:20.943  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 3.451 seconds (JVM running for 7.44)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 15:35:24.702  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 100556 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 15:35:24.708  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 15:35:25.895  INFO 100556 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1111 ms
+2022-01-28 15:35:26.612  INFO 100556 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 15:35:26.723  INFO 100556 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 2.749 seconds (JVM running for 13.22)
+2022-01-28 15:35:27.143  INFO 100556 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 15:35:27.144  INFO 100556 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+
+2022-01-28 17:09:47 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:09:56.516  INFO 100660 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 100660 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:09:56.526  INFO 100660 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:09:58.312  INFO 100660 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1635 ms
+2022-01-28 17:10:00.006  INFO 100660 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:10:00.189  INFO 100660 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 4.948 seconds (JVM running for 13.132)
+
+2022-01-28 17:14:16 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:14:25.128  INFO 57676 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 57676 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:14:25.134  INFO 57676 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:14:26.429  INFO 57676 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1184 ms
+2022-01-28 17:14:27.316  INFO 57676 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:14:27.466  INFO 57676 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 3.266 seconds (JVM running for 10.582)
+2022-01-28 17:14:50.028  INFO 57676 --- [nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 17:14:50.030  INFO 57676 --- [nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+
+2022-01-28 17:15:53 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:16:02.828  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 94444 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:16:02.836  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:16:04.729  INFO 94444 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1762 ms
+2022-01-28 17:16:06.133  INFO 94444 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:16:06.313  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 4.809 seconds (JVM running for 12.981)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:16:11.203  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 94444 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:16:11.208  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:16:12.823  INFO 94444 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1502 ms
+2022-01-28 17:16:13.969  INFO 94444 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:16:14.134  INFO 94444 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 4.03 seconds (JVM running for 20.803)
+2022-01-28 17:16:14.760  INFO 94444 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 17:16:14.761  INFO 94444 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-01-28 17:16:14.765  INFO 94444 --- [nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 17:16:14.767  INFO 94444 --- [nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+
+2022-01-28 17:21:30 Apache Commons Daemon procrun stdout initialized.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:21:38.549  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 98148 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:21:38.560  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:21:40.282  INFO 98148 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1573 ms
+2022-01-28 17:21:41.697  INFO 98148 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:21:41.894  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 4.617 seconds (JVM running for 11.742)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:21:46.132  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 98148 (E:\tomcat9\webapps\was-test-0.0.1-SNAPSHOT\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:21:46.141  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:21:47.789  INFO 98148 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1531 ms
+2022-01-28 17:21:48.791  INFO 98148 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:21:48.965  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 3.871 seconds (JVM running for 18.812)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.6.3)
+
+2022-01-28 17:21:53.229  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 1.8.0_131 on DESKTOP-1UDQUN2 with PID 98148 (E:\tomcat9\webapps\was\WEB-INF\classes started by LOCAL SERVICE in E:\tomcat9)
+2022-01-28 17:21:53.235  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2022-01-28 17:21:54.499  INFO 98148 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1176 ms
+2022-01-28 17:21:55.452  INFO 98148 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-01-28 17:21:55.610  INFO 98148 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 3.352 seconds (JVM running for 25.458)
+2022-01-28 17:21:55.820  INFO 98148 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 17:21:55.822  INFO 98148 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
